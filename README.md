@@ -98,8 +98,7 @@ Recommended 3-2-1 Backup Strategy:
 - ✅ 3 copies of the backup
 - ✅ 2 different storage media
 - ✅ 1 copy stored in a remote location
--
-Make sure to back up your shift values and sequence values. If lost, decryption will be impossible!
+- Make sure to back up your shift values and sequence values. If lost, decryption will be impossible!
 
 
 ---
@@ -200,8 +199,7 @@ Windows 用戶可以直接執行 `mnemonic_encrypt.exe`，Linux 和 macOS 用戶
 - 3份備份
 - 2種介質
 - 1份異地存儲
--
-**請確保備份您的偏移值與順序值，遺失後將無法解密！**
+- **請確保備份您的偏移值與順序值，遺失後將無法解密！**
 
 
 
