@@ -46,7 +46,7 @@ Optionally, convert the final numeric result into shifted letters.
 
 ### Download
 
-1. Visit [GitHub Releases](https://github.com/your_account/your_project/releases) to download the latest version of `mnemonic_encrypt.exe`.
+1. Visit [GitHub Releases](https://github.com/MR-WU3133/mnemonic-encrypt) to download the latest version of `mnemonic_encrypt.exe`.
 2. To verify file integrity, download the corresponding GPG signature file (`mnemonic_encrypt_MR.WU.sig`).
 
 ### Execution
@@ -147,7 +147,7 @@ Mnemonic Encryption Tool 是一款開源的助記詞加密工具，專為保護�
 
 ### 下載
 
-1. 下載最新版本的 `mnemonic_encrypt.exe`。
+1. 下載最新版本的[GitHub Releases](https://github.com/MR-WU3133/mnemonic-encrypt) `mnemonic_encrypt.exe`。
 2. 若需要驗證文件完整性，請下載對應的 GPG 簽名文件 (`mnemonic_encrypt_MR.WU.sig`)。
 
 ### 執行方式
