@@ -95,9 +95,9 @@ Secondary Encryption Values
 Losing any of these parameters will result in permanent inability to decrypt!
 
 Recommended 3-2-1 Backup Strategy:
-✅ 3 copies of the backup
-✅ 2 different storage media
-✅ 1 copy stored in a remote location
+- ✅ 3 copies of the backup
+- ✅ 2 different storage media
+- ✅ 1 copy stored in a remote location
 -
 Make sure to back up your shift values and sequence values. If lost, decryption will be impossible!
 
@@ -195,11 +195,11 @@ Windows 用戶可以直接執行 `mnemonic_encrypt.exe`，Linux 和 macOS 用戶
 2. 插入順序值位置
 3. 二次加密值
 
-**遺失任何參數將導致永久無法解密！**
-**建議採用3-2-1備份原則：**
-**3份備份**
-**2種介質**
-**1份異地存儲**
+- 遺失任何參數將導致永久無法解密！
+- 建議採用3-2-1備份原則：
+- 3份備份
+- 2種介質
+- 1份異地存儲
 -
 **請確保備份您的偏移值與順序值，遺失後將無法解密！**
 
