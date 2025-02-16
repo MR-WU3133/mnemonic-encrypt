@@ -1,12 +1,10 @@
 # Mnemonic Encryption Tool
-
 **Author: MR.WU**  
-**Official Website: [mnemonic-encryption-tool.mystrikingly.com](https://mnemonic-encryption-tool.mystrikingly.com)**
-
+**Official Website: [Here](https://mnemonic-encryption-tool.mystrikingly.com)**
+- [跳轉中文說明](#mnemonic-encryption-tool-中文說明)
 ## Introduction
 Mnemonic Encryption Tool is an open-source encryption tool designed to enhance the security of mnemonic phrases through multi-layered protection. 
 It converts mnemonic phrases into highly secure formats using customizable encryption parameters, making it ideal for safeguarding sensitive data stored physically (e.g., on paper or metal plates).
-
 
 ## Features
 
@@ -103,10 +101,10 @@ Recommended 3-2-1 Backup Strategy:
 
 ---
 
-# Mnemonic Encryption Tool-中文說明
+## Mnemonic-Encryption-Tool-中文說明
 
 **作者：MR.WU**  
-**官方網站：[mnemonic-encryption-tool.mystrikingly.com](https://mnemonic-encryption-tool.mystrikingly.com)**
+**官方網站：[請點此](https://mnemonic-encryption-tool.mystrikingly.com)**
 
 ## 介紹
 
@@ -185,8 +183,15 @@ Windows 用戶可以直接執行 `mnemonic_encrypt.exe`，Linux 和 macOS 用戶
 - **Instagram**：[han313_c](https://www.instagram.com/han313_c)
 - **Telegram 官方頻道**：[Encryption Tool WU](https://t.me/encryptiontoolWU)
 
-## 更新日誌
----
+<details>
+<summary>
+<strong>更新日誌</strong>
+</summary>
+
+|          日期         |                           更新内容                               |                                             作者/感謝名單                                              |
+|:---------------------:|-----------------------------------------------------------------|:---------------------------------------------------------------------------------------------:|
+|     2025/02/15        |  上傳V1.1版本                                                    | [@MR.WU](https://github.com/MR-WU3133)
+</details>
 
 ## 警告
 **請必須妥善保存以下資訊：
